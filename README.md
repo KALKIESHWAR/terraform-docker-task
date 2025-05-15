@@ -1,13 +1,10 @@
 # terraform-docker-task
-Here’s a well-structured `README.md` file based on the content you provided:
-
----
 
 ````markdown
 🌐 DevOps Internship - Task 3: Terraform & Docker
 
 🧩 Project Overview
-This project showcases how to use **Terraform**, an Infrastructure as Code (IaC) tool, to automate the provisioning of a local **Nginx Docker container**. It’s a great starting point for learning automated infrastructure management!
+This project showcases how to use Terraform, an Infrastructure as Code (IaC) tool, to automate the provisioning of a local Nginx Docker container. It’s a great starting point for learning automated infrastructure management!
 
 ✅ Features
 - Pulls the official Nginx Docker image
@@ -18,9 +15,9 @@ This project showcases how to use **Terraform**, an Infrastructure as Code (IaC)
 ---
 
 🛠️ Tools Used
-- **Terraform (v1.5+)** – Infrastructure as Code
-- **Docker** – Containerization platform
-- **Git/GitHub** – Version control system
+- Terraform (v1.5+) – Infrastructure as Code
+- Docker – Containerization platform
+- Git/GitHub – Version control system
 
 ---
 
@@ -98,32 +95,7 @@ terraform destroy
 
 🙏 Credits
 
-* **Task Design:** \[Company/Program Name]
-* **Documentation:** \[Your Name]
-* **Terraform Docs:** [https://developer.hashicorp.com/terraform/docs](https://developer.hashicorp.com/terraform/docs)
-
+* **Task Design:** \[Elevate Labs/DevOps INTERNSHIP]
+* **Documentation:** \[KALKIESHWAR]
 ---
-
-🎉 Bonus Challenges
-
-Try enhancing the project by modifying `main.tf` to:
-
-* Use Apache (`httpd`) instead of Nginx
-* Add environment variables
-* Mount Docker volumes for data persistence
-
-Pull requests are welcome!
-
----
-
-> *"Automation isn't lazy—it’s smart engineering."*
-> — Every DevOps Engineer Ever
-
----
-
----
-
-```
-
-Let me know if you want me to generate a sample `main.tf` to go along with this!
 ```
